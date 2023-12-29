@@ -1,0 +1,12 @@
+
+Configuracion de GIT:
+
+---------------------------------------------------------------------
+
+git config --global user.name "NOMBRE DE USUARIO"  
+
+git config --global user.email personal@gmail.com
+
+git config --global core.editor "code --wait"              ==> VS CODE
+
+git config --global -e                                     ==> Cerrar VS CODE

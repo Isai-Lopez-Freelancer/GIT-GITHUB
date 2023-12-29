@@ -1,0 +1,7 @@
+
+.gitignore
+
+------------------------------------------------
+
+para ignorar todos los archivos o carpetas que no deseo que se guarden en git.
+

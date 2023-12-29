@@ -1,0 +1,65 @@
+
+
+--------------------------------------------------------------------------------------
+
+una vez dentro del directorio o carpeta iniciamos repositorio
+con : 
+
+
+git init
+
+
+Cuando se empieza un proyecto, se pone el comando ( git init ) Toma todos los archivos
+y carpetas y los guarda todo en el historial y se creara una carpeta escondida que
+guardara toda la informacion en git.
+
+
+--------------------------------------------------------------------------------------
+
+
+los comandos más usados en git :
+
+
+
+git status     
+
+git status -s  
+
+git add        
+
+git commit    
+
+git commit -m " Mensaje "      
+
+git commit -a -m " mensaje "    
+
+
+
+git log  ================================> para ver el historial de los commits.
+
+para salirse del historial de los commits presionar la letra: Q
+
+
+
+git log --oneline    
+
+git log --oneline --graph   
+
+git log --oneline --reverse
+
+git branch
+
+git switch
+
+git remote
+
+git pull
+
+git push
+
+git clone
+
+git merge
+
+git show      
+

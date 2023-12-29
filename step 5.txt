@@ -1,0 +1,26 @@
+
+comandos no tan usados en git :
+
+-------------------------------------------------------------------------------------
+
+git rm  
+
+git mv  
+
+git tags
+
+git reset
+
+git reflog
+
+git stash
+
+git fetch
+
+git cherry-pick
+
+git rebase
+
+git restore 
+
+git diff 

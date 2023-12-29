@@ -1,0 +1,8 @@
+
+Para Saltos de linea:
+
+-------------------------------------------------------
+
+Windows ===> git config --global core.autocrlf true
+
+Linux & MacOs ===> git config --global core.autocrlf input

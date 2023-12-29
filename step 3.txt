@@ -1,0 +1,23 @@
+
+Comandos de Linux
+
+-------------------------------------------------------------------------------------
+
+pwd      ===> para saber en donde nos encontramos
+
+mkdir    ===> crear una carpeta
+
+cd       ===> para cambiar de directorio o carpeta
+
+ls       ===> para listar los directorios o carpetas
+
+ls a     ===> para listar los directorios o carpetas ocultos
+
+rm -rf   ===> para eliminar de manera forzada y permanente un directorio o carpeta.
+
+ls -al   ===> listar todos los directorios o carpetas incluyendo los ocultos con mas detalles
+
+rm       ===> para eliminar un archivo
+
+mv       ===> para mover archivos
+
